@@ -171,10 +171,10 @@ const styles = {
     backgroundColor: '#3DD84C'
   },
   text: {
-    height: STATUS_BAR_HEIGHT,
-    fontSize: 13,
+    height: STATUS_BAR_HEIGHT + 10,
+    fontSize: 17,
     fontWeight: '400',
-    lineHeight: 15,
+    lineHeight: 19,
     textAlign: 'center',
     color: 'white'
   }
